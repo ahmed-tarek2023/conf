@@ -2,7 +2,7 @@
 Description=Low Battery Alert
 
 [Service]
-ExecStart=/home/ahmed/low_battery_alert.sh
+ExecStart=/home/ahmed/.config/hypr/UserScripts/low_battery_alert.sh
 Restart=always
 
 [Install]
