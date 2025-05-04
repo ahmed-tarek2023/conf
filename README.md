@@ -1,1 +1,1 @@
-# config for Linux Fedora
+# config for Linux Fedora with hyperland
