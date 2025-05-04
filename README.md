@@ -1,1 +1,1 @@
-# conf
+# config for Linux Fedora
